@@ -114,7 +114,7 @@ Advanced Data Engineering Skills
   - [Business Intelligence Tools](AdvancedSkills.md#business-intelligence-tools)
     - [Tableau](AdvancedSkills.md#tableau)
     - [Power BI](AdvancedSkills.md#power-bi)
-    - [Quliksense](AdvancedSkills.md#quliksense)
+    - [Qliksense](AdvancedSkills.md#qliksense)
   - [Identity & Device Management](AdvancedSkills.md#Identity-and-device-management)
     - [What Is A Digital Twin](AdvancedSkills.md#what-is-a-digital-twin)
     - [Active Directory](AdvancedSkills.md#active-directory)
